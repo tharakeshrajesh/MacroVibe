@@ -13,6 +13,7 @@ Both were made in KiCad 9.0, highly recommend, will use from now on.
 
 ### Case
 ![image](/images/case.png)
+
 This case was made in Fusion360, I spent most of the time on this stupid case than any other part of the project because the keyholes and other holes would not line up
 so I had to try like 5 times before I kind of got it.
 
