@@ -47,5 +47,5 @@ Keycodes/macros are not set in the code so you will have to manually set those i
 <<<<<<< HEAD
 
 ### Credits
-* Encoder knob was made by (void)[https://www.printables.com/@void] on (printables)[https://www.printables.com]. Page (here)[https://www.printables.com/model/347536-encoder-knob].
-* Special thanks to alexren and qcoral for making a guide on how to make a hackpad. Page (here)[https://hackpad.hackclub.com].
+* Encoder knob was made by [void](https://www.printables.com/@void) on [printables](https://www.printables.com). Page [here](https://www.printables.com/model/347536-encoder-knob).
+* Special thanks to alexren and qcoral for making a guide on how to make a hackpad. Page [here](https://hackpad.hackclub.com).
