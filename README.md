@@ -44,7 +44,6 @@ Keycodes/macros are not set in the code so you will have to manually set those i
 |3D printed top case|x1|~$2|
 |3D printed bottom case|x1|~$2|
 |Total||~$30|
-<<<<<<< HEAD
 
 ### Credits
 * Encoder knob was made by [void](https://www.printables.com/@void) on [printables](https://www.printables.com). Page [here](https://www.printables.com/model/347536-encoder-knob).
